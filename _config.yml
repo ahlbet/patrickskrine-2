@@ -17,7 +17,7 @@ title: Patrick Skrine
 email: patrickskrine@gmail.com
 builder: Dylan Stratton
 description: > # this means to ignore newlines until "baseurl:"
-  Patrick Skrine's Sports Blog
+  Skrine's Sports Take
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: patrickskrine
