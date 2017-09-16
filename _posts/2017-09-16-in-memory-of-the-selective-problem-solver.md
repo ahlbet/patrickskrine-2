@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Memory of the Selective Problem Solver
+title: In Memory of a Selective Problem Solver
 date: 2017-09-16T17:52:22.792Z
 thumbnail: /assets/images/uploads/june1.jpg
 ---
@@ -15,3 +15,4 @@ I hope my Aunt Michelle is resting somewhere, the same way her bracelet is resti
 “It's chaos. Be kind.” —Michelle McNamara
 
 For you, Mish Mac. 
+
