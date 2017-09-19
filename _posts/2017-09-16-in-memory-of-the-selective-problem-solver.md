@@ -3,6 +3,7 @@ layout: post
 title: In Memory of a Selective Problem Solver
 date: 2017-09-16T17:52:22.792Z
 thumbnail: /assets/images/uploads/june1.jpg
+exclude_sub_header: true
 ---
 This website is dedicated to my late Aunt Michelle, my biggest fan and the woman who inspired my love for writing. She was a professional crime writer and a remarkable aunt, mother, sister, friend, wife and daughter.
 
