@@ -7,6 +7,11 @@
 
     {% include header.html %}
 
+    {% unless page.exclude_sub_header %}
+      {% include sub-header.html %}
+    {% endunless %}
+
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
