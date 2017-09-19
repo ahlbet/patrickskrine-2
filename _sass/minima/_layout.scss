@@ -132,12 +132,14 @@
   @extend %clearfix;
   // text-align: center;
   display: flex;
-  justify-content: space-around;
+  // justify-content: space-around;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
 }
 
 .footer-col {
-  margin: 0 5px
+  margin: 0 15px
 }
 
 // .footer-col {
