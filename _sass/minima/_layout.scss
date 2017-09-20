@@ -19,6 +19,10 @@
   background-position: center;
   // background-attachment: fixed;
   height: 400px;
+
+  @include media-query($on-palm) {
+    height: 250px;
+  }
 }
 
 .site-title {
