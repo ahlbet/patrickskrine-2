@@ -231,6 +231,10 @@
   @include relative-font-size(1.5);
 }
 
+.post-img-link:hover {
+  opacity: 1;
+}
+
 
 
 /**
