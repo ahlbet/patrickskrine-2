@@ -5,7 +5,7 @@ date: 2017-11-09T20:55:13.289Z
 thumbnail: null
 exclude_sub_header: 'true'
 ---
-While the #3 ranked Notre Dame football team has a crucial game against Miami to control their fate in the college football playoffs, Mike Brey’s squad begins the season Saturday at Depaul.
+While the #3 ranked Notre Dame football team has a crucial game against Miami to control their fate in the college football playoffs, Mike Brey’s squad begins the season Saturday at DePaul.
 
 Make no mistake: Notre Dame is also a basketball school.
 
