@@ -18,7 +18,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
 
-        {{ post.excerpt | strip_html | truncatewords:25 }}
+        <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p>
 
         <a class="post-img-link" href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" alt="{{ post.thumbnail }}"></a>
 
