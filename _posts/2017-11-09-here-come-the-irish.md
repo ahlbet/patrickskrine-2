@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'College Basketball Is Here: Here Come The Irish'
+title: 'College Basketball: Here Come The Irish'
 date: 2017-11-09T20:55:13.289Z
 thumbnail: null
 exclude_sub_header: 'true'
@@ -30,3 +30,4 @@ Bonzie Colson is considered one of the top five players in the nation. He is in 
 The Notre Dame Fighting Irish prove themselves every year in the ACC. The ACC was the deepest conference in college basketball last year. The Irish, when knocking down threes and flying around on defense, can beat anybody in America. 
 
 Don’t sleep on ND.  
+
