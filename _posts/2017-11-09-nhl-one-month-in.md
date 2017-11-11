@@ -2,7 +2,7 @@
 layout: post
 title: 'NHL: Five Weeks In'
 date: 2017-11-09T20:11:17.926Z
-thumbnail: null
+thumbnail: /assets/images/uploads/nhl1.jpg
 exclude_sub_header: 'true'
 ---
 Unlike the NBA, it’s pretty hard to predict the champs every year on the ice.

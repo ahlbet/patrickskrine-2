@@ -2,7 +2,7 @@
 layout: post
 title: 'NBA: Three Weeks In'
 date: 2017-11-09T20:42:50.584Z
-thumbnail: null
+thumbnail: /assets/images/uploads/nba1.jpg
 exclude_sub_header: 'true'
 ---
 The Golden State Warriors have taken the NBA to uncharted territory. It is the super team era — the game’s biggest names are teaming up to dethrone the Warriors.
