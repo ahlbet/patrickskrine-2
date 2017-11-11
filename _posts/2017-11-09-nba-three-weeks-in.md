@@ -23,3 +23,4 @@ But now with Kevin Durant in the picture, it’s appropriate to call them a supe
 
 5) **Minnesota is capable.** The Western conference is so stacked, that the Timberwolves—a big three of Karl-Anthony Towns, Andrew Wiggins and Jimmy Butler are underdogs. Sitting at 7-4, the Wolves have to be feeling good about how they’re playing. Tom Thibodeau knows Jimmy Butler best. He came over this offseason from Chicago. If Minnesota wants to contend come April, Jimmy has to play like a superstar. Just like the team is more than capable of going deep in the playoffs, Butler is capable of dominating the same way he did in Chicago. 
 
+
