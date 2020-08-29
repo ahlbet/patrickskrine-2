@@ -5,14 +5,5 @@ date: 2017-09-16T17:52:22.792Z
 thumbnail: /assets/images/uploads/june1.jpg
 exclude_sub_header: true
 ---
-This website is dedicated to my late Aunt Michelle, my biggest fan and the woman who inspired my love for writing. She was a professional crime writer and a remarkable aunt, mother, sister, friend, wife and daughter.
 
-Michelle embodied so many wonderful life lessons—she taught me to cherish family, be grateful, and laugh often, especially at myself. Her powerful voice and unwavering intelligence in her professional work were no match to how genuine she was as a person.
-
-She is missed by everyone who knew her. Writing and creative expression are two of the many ways I honor her. She will always have a special place in my heart.
-
-I hope my Aunt Michelle is resting somewhere, the same way her bracelet is resting on the ledge of my favorite place in the world: Toplofty in Palisades Park, Michigan.
-
-“It's chaos. Be kind.” —Michelle McNamara
-
-For you, Mish Mac.
+This creative website is dedicated to the late Michelle McNamara. Michelle always said, “It’s chaos, be kind.” To the person who showed me what it means to reduce the chaos during my time on Earth: Thank you for being a light in my life that will never fade. As the brilliant Carl Sagan said: “To live in the hearts we leave behind is to never die.”
