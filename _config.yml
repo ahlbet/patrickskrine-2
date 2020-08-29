@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Skrine's Take
+title: Skrinspire
 email: patrickskrine@gmail.com
 builder: Dylan Stratton
 description: > # this means to ignore newlines until "baseurl:"
   Skrine's Take
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: patrickskrine
 # github_username:  jekyll
 
@@ -28,7 +28,6 @@ markdown: kramdown
 # theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
